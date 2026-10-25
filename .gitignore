@@ -1,0 +1,8 @@
+build/
+dist/
+__pycache__/
+*.pyc
+# personal, created on first run:
+config.json
+vlak_painter_config.txt
+metadata.json
